@@ -60,7 +60,7 @@
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-4xl">
                         <div
-                            class="bg-gray-800 bg-opacity-60 rounded-lg p-8 flex flex-col items-center hover:bg-gray-700 transform hover:scale-105 transition duration-300 border border-transparent hover:border-purple-500"
+                            class="bg-gray-800  rounded-lg p-6 flex flex-col items-center hover:shadow-lg hover:shadow-purple-500 transform  transition duration-300 border border-transparent hover:border-purple-500 "
                         >
                             <svg
                                 class="w-12 h-12 text-purple-500 mb-4"
@@ -76,7 +76,7 @@
                             <h3 class="text-lg font-medium mb-2">Summary</h3>
                         </div>
                         <div
-                            class="bg-gray-800 bg-opacity-60 rounded-lg p-8 flex flex-col items-center hover:bg-gray-700 transform hover:scale-105 transition duration-300 border border-transparent hover:border-purple-500"
+                            class="bg-gray-800  rounded-lg p-6 flex flex-col items-center hover:shadow-lg hover:shadow-purple-500 transform  transition duration-300 border border-transparent hover:border-purple-500 "
                         >
                             <svg
                                 class="w-12 h-12 text-purple-500 mb-4"
@@ -92,7 +92,7 @@
                             <h3 class="text-lg font-medium mb-2">Questions</h3>
                         </div>
                         <div
-                            class="bg-gray-800 bg-opacity-60 rounded-lg p-8 flex flex-col items-center hover:bg-gray-700 transform hover:scale-105 transition duration-300 border border-transparent hover:border-purple-500"
+                            class="bg-gray-800  rounded-lg p-6 flex flex-col items-center hover:shadow-lg hover:shadow-purple-500 transform  transition duration-300 border border-transparent hover:border-purple-500 "
                         >
                             <svg
                                 class="w-12 h-12 text-purple-500 mb-4"
